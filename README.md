@@ -31,21 +31,20 @@ Keep backups safe — they are still encrypted with your master password
 Main application window
 ![screen1](screen1.jpg)
 ![screen2](screen2.jpg)
-![screen3](screen3.jpg)
-![screen4](screen4.jpg)
-![screen5](screen5.jpg)
-![screen6](screen6.jpg)
-![screen7](screen7.jpg)
-![screen8](screen8.jpg)
 
 Adding/editing an entry
-
-Viewing decrypted entry details
-
-Password generator dialog
+![screen3](screen3.jpg)
 
 Export/backup dialog
+![screen4](screen4.jpg)
+![screen5](screen5.jpg)
 
+Password generator dialog
+![screen6](screen6.jpg)
+![screen7](screen7.jpg)
+
+Viewing decrypted entry details
+![screen8](screen8.jpg)
 
 If you forget your master password, data cannot be recovered
 
